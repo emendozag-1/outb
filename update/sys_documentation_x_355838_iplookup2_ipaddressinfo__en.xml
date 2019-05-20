@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="IPAddressInfo2" language="en" table="x_355838_iplookup2_ipaddressinfo">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>IPAddressInfo2</label>
+            <language>en</language>
+            <name>x_355838_iplookup2_ipaddressinfo</name>
+            <plural>IPAddressInfo2s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-20 23:03:36</sys_created_on>
+            <sys_id>5837ec654fa53300a12a0f5e9310c7e0</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>IPAddressInfo2</sys_name>
+            <sys_package display_value="IPLookup" source="x_355838_iplookup2">de6f18214fa53300a12a0f5e9310c78b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IPLookup">de6f18214fa53300a12a0f5e9310c78b</sys_scope>
+            <sys_update_name>sys_documentation_x_355838_iplookup2_ipaddressinfo__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-20 23:06:00</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
