@@ -2,5 +2,8 @@
     <element label="IPAddressInfo2" max_length="40" name="x_355838_iplookup2_ipaddressinfo" type="collection">
         <element label="City" max_length="40" name="city" type="string"/>
         <element label="IP address" max_length="40" name="ip_address" type="string"/>
+        <element label="Latitude" max_length="60" name="latitude" type="string"/>
+        <element label="loc" max_length="100" name="loc" type="string"/>
+        <element label="Longitude" max_length="60" name="longitude" type="string"/>
     </element>
 </database>

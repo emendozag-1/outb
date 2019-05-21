@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="latitude" label="Latitude" language="en" table="x_355838_iplookup2_ipaddressinfo">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>latitude</element>
+            <help/>
+            <hint/>
+            <label>Latitude</label>
+            <language>en</language>
+            <name>x_355838_iplookup2_ipaddressinfo</name>
+            <plural>Latitudes</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-21 16:09:34</sys_created_on>
+            <sys_id>010254f14f613300a12a0f5e9310c715</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Latitude</sys_name>
+            <sys_package display_value="IPLookup" source="x_355838_iplookup2">de6f18214fa53300a12a0f5e9310c78b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IPLookup">de6f18214fa53300a12a0f5e9310c78b</sys_scope>
+            <sys_update_name>sys_documentation_x_355838_iplookup2_ipaddressinfo_latitude_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-21 16:09:34</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

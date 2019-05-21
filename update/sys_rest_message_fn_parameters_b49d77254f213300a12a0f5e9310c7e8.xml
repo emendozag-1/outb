@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn_parameters">
     <sys_rest_message_fn_parameters action="INSERT_OR_UPDATE">
-        <name>ipaddress</name>
+        <name>specific_field</name>
         <rest_message_function display_value="GetIPInfo">b5b02c614fa53300a12a0f5e9310c7db</rest_message_function>
         <sys_class_name>sys_rest_message_fn_parameters</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-05-20 22:39:05</sys_created_on>
-        <sys_id>3861a4a14fa53300a12a0f5e9310c775</sys_id>
-        <sys_mod_count>4</sys_mod_count>
-        <sys_name>ipaddress</sys_name>
+        <sys_created_on>2019-05-21 14:40:35</sys_created_on>
+        <sys_id>b49d77254f213300a12a0f5e9310c7e8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>specific_field</sys_name>
         <sys_package display_value="IPLookup" source="x_355838_iplookup2">de6f18214fa53300a12a0f5e9310c78b</sys_package>
         <sys_policy/>
         <sys_scope display_value="IPLookup">de6f18214fa53300a12a0f5e9310c78b</sys_scope>
-        <sys_update_name>sys_rest_message_fn_parameters_3861a4a14fa53300a12a0f5e9310c775</sys_update_name>
+        <sys_update_name>sys_rest_message_fn_parameters_b49d77254f213300a12a0f5e9310c7e8</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-05-21 15:00:43</sys_updated_on>
+        <sys_updated_on>2019-05-21 14:40:35</sys_updated_on>
         <type>string</type>
-        <value>200.106.89.68</value>
+        <value>city</value>
     </sys_rest_message_fn_parameters>
 </record_update>
